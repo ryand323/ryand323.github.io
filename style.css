@@ -17,7 +17,13 @@ font: 40pt
 }
 p{
 font-family: "Arial";
-font-size: 20pt;
+font-size: 12pt;
+text-align: left;
+text-indent: 24px;
+}
+p2{
+font-family: "Arial";
+font-size: 12pt;
 text-align: center;
 text-indent: 24px;
 }
